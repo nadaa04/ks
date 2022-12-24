@@ -1,0 +1,23 @@
+.card {
+    padding: 1em;
+    margin: 8rem auto;
+    width: 20rem;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 3px;
+}
+
+label {
+    font-size: 10pt;
+    color: #555;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+    padding: 8px;
+    width: 95%;
+    background: #fff;
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+}
